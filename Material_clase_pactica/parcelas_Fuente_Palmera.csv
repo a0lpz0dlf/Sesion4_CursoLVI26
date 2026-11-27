@@ -1,0 +1,6 @@
+parcel_id;nombre_parcela;ref_catastral;fecha_evento;zona_provincia;tipo_olivar;riego;superficie_ha;variedad;estado_fenologico;tipo_suelo;drenaje;pendiente_%;distancia_rio_m;altitud_m;rain_72h_mm;rain_7d_mm;temp_media_7d;humedad_suelo_%;profundidad_suelo_cm;materia_organica_%;rendimiento_esperado_kg_ha;precio_mercado_eur_kg;coste_variable_ha;duracion_encharcamiento_dias;pct_perdida
+14:30:0:0:14:3:3;Haza Grande de Ochavillo;14030A01400003;2026-02-08;;Superintensivo;;;Arbequina;;Franco-arcilloso;Moderado;;348;;;;;49,5;92;1,38;11200;0,86;1950;2,03;
+14:30:0:0:14:60:1;Olivar de La Herrería;14030A01400060;2026-02-08;;Intensivo;;;Picual;;Franco;Bueno;;221;;;;;49,5;104;1,52;9600;0,82;1680;1,61;
+14:30:0:0:14:93:2;Loma de los Colonos;14030A01400093;2026-02-08;;Tradicional;;;Hojiblanca;;Arcilloso;Moderado;;303;;;;;49,5;64;1,08;4600;0,8;1180;2,2;
+14:30:0:0:16:3:6;Cortijo de los Silillos;14030A01600003;2026-02-08;;Intensivo;;;Navelina;;Limoso;Malo;;694;;;;;40,8;95;1,61;35000;0,28;4200;2,53;
+14:30:0:0:14:89:2;Cerrillo del Rabadán;14030A01400089;2026-02-08;;Tradicional;;;Hojiblanca;;Arenoso;Bueno;;480;;;;;49,5;85;0,88;7300;0,79;1460;1,15;
